@@ -1,0 +1,1304 @@
+- site: engine/battle/core.asm:3505
+  construct: cp
+  species: UNOWN
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Unown form handling, keyed by species
+- site: engine/battle/core.asm:6451
+  construct: cp
+  species: UNOWN
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Unown form handling, keyed by species
+- site: engine/battle/core.asm:6472
+  construct: cp
+  species: MAGIKARP
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: wild Magikarp length reroll on generation, keyed by species
+- site: engine/battle/core.asm:8575
+  construct: cp
+  species: UNOWN
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Unown form handling, keyed by species
+- site: engine/battle/effect_commands.asm:1153
+  construct: cp
+  species: CHANSEY
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Lucky Punch / Stick held-item effect, keyed by species
+- site: engine/battle/effect_commands.asm:1164
+  construct: cp
+  species: FARFETCH_D
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Lucky Punch / Stick held-item effect, keyed by species
+- site: engine/battle/effect_commands.asm:2572
+  construct: cp
+  species: DITTO
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Ditto breeding/Transform rule, keyed by species
+- site: engine/battle/swarm_shiny.asm:101
+  construct: cp
+  species: YANMA
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:105
+  construct: cp
+  species: DUNSPARCE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:109
+  construct: cp
+  species: QWILFISH
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:113
+  construct: cp
+  species: MARILL
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:117
+  construct: cp
+  species: MAGNEMITE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:121
+  construct: cp
+  species: CHINCHOU
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:125
+  construct: cp
+  species: REMORAID
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:129
+  construct: cp
+  species: PHANPY
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:133
+  construct: cp
+  species: CATERPIE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:137
+  construct: cp
+  species: SPINARAK
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:141
+  construct: cp
+  species: PARAS
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:145
+  construct: cp
+  species: HOPPIP
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:149
+  construct: cp
+  species: DITTO
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:153
+  construct: cp
+  species: SUNKERN
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:157
+  construct: cp
+  species: VULPIX
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:161
+  construct: cp
+  species: MILTANK
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:165
+  construct: cp
+  species: SANDSHREW
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:169
+  construct: cp
+  species: EKANS
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:173
+  construct: cp
+  species: SMEARGLE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:177
+  construct: cp
+  species: HORSEA
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:181
+  construct: cp
+  species: MANKEY
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:185
+  construct: cp
+  species: PONYTA
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:189
+  construct: cp
+  species: DIGLETT
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:193
+  construct: cp
+  species: DRATINI
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:197
+  construct: cp
+  species: SWINUB
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:201
+  construct: cp
+  species: GLIGAR
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:205
+  construct: cp
+  species: GOLBAT
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:209
+  construct: cp
+  species: DODUO
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:213
+  construct: cp
+  species: FURRET
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:217
+  construct: cp
+  species: PIKACHU
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:221
+  construct: cp
+  species: MAGMAR
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:225
+  construct: cp
+  species: GEODUDE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:229
+  construct: cp
+  species: JIGGLYPUFF
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:233
+  construct: cp
+  species: POLIWAG
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:237
+  construct: cp
+  species: MEOWTH
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:241
+  construct: cp
+  species: FEAROW
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:245
+  construct: cp
+  species: CUBONE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:249
+  construct: cp
+  species: MURKROW
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:253
+  construct: cp
+  species: HAUNTER
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:257
+  construct: cp
+  species: SLUGMA
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:261
+  construct: cp
+  species: VOLTORB
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:265
+  construct: cp
+  species: NIDORINO
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:269
+  construct: cp
+  species: FARFETCH_D
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:273
+  construct: cp
+  species: STARYU
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny.asm:277
+  construct: cp
+  species: SEEL
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:101
+  construct: cp
+  species: PSYDUCK
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:105
+  construct: cp
+  species: TEDDIURSA
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:109
+  construct: cp
+  species: BELLSPROUT
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:113
+  construct: cp
+  species: MACHOP
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:117
+  construct: cp
+  species: TAUROS
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:121
+  construct: cp
+  species: CORSOLA
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:125
+  construct: cp
+  species: LICKITUNG
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:129
+  construct: cp
+  species: SLOWPOKE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:133
+  construct: cp
+  species: WEEDLE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:137
+  construct: cp
+  species: LEDYBA
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:141
+  construct: cp
+  species: ODDISH
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:145
+  construct: cp
+  species: STANTLER
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:149
+  construct: cp
+  species: DROWZEE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:153
+  construct: cp
+  species: VENONAT
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:157
+  construct: cp
+  species: GROWLITHE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:161
+  construct: cp
+  species: PINECO
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:165
+  construct: cp
+  species: WOOPER
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:169
+  construct: cp
+  species: AIPOM
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:173
+  construct: cp
+  species: KOFFING
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:177
+  construct: cp
+  species: MANTINE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:181
+  construct: cp
+  species: MAREEP
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:185
+  construct: cp
+  species: GIRAFARIG
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:189
+  construct: cp
+  species: HOUNDOUR
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:193
+  construct: cp
+  species: ONIX
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:197
+  construct: cp
+  species: SNEASEL
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:201
+  construct: cp
+  species: SKARMORY
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:205
+  construct: cp
+  species: RHYHORN
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:209
+  construct: cp
+  species: MR__MIME
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:213
+  construct: cp
+  species: RATICATE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:217
+  construct: cp
+  species: BULBASAUR
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:221
+  construct: cp
+  species: CHARMANDER
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:225
+  construct: cp
+  species: CLEFAIRY
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:229
+  construct: cp
+  species: NOCTOWL
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:233
+  construct: cp
+  species: ABRA
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:237
+  construct: cp
+  species: PIDGEOTTO
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:241
+  construct: cp
+  species: SQUIRTLE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:245
+  construct: cp
+  species: KANGASKHAN
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:249
+  construct: cp
+  species: ELECTABUZZ
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:253
+  construct: cp
+  species: TYROGUE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:257
+  construct: cp
+  species: GRIMER
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:261
+  construct: cp
+  species: EXEGGCUTE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:265
+  construct: cp
+  species: NIDORINA
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:269
+  construct: cp
+  species: CHANSEY
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:273
+  construct: cp
+  species: SHELLDER
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/battle/swarm_shiny_alt.asm:277
+  construct: cp
+  species: JYNX
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: swarm
+  note: mirror of the swarm_location_data row and the swarm encounter block for the same landmark
+- site: engine/events/daycare.asm:570
+  construct: cp
+  species: DITTO
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Ditto breeding/Transform rule, keyed by species
+- site: engine/events/daycare.asm:574
+  construct: cp
+  species: DITTO
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Ditto breeding/Transform rule, keyed by species
+- site: engine/events/daycare.asm:598
+  construct: cp
+  species: NIDORAN_F
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Nidoran egg gender split
+- site: engine/events/daycare.asm:656
+  construct: cp
+  species: DITTO
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Ditto breeding/Transform rule, keyed by species
+- site: engine/events/daycare.asm:660
+  construct: cp
+  species: DITTO
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Ditto breeding/Transform rule, keyed by species
+- site: engine/events/dratini.asm:19
+  construct: cp
+  species: DRATINI
+  in_offset_list: false
+  category: none
+  verdict: tied
+  group: DragonShrine
+  note: GiveDratini searches the party for the shrine gift; not in the offset list, so the shipped app already breaks it
+- site: engine/events/magikarp.asm:11
+  construct: cp
+  species: MAGIKARP
+  in_offset_list: true
+  category: gifts
+  verdict: limitation
+  group: LakeOfRageMagikarpHouse
+  note: tied to the setval in the rater's house inside gifts; crosses to every wild Magikarp
+- site: engine/events/overworld.asm:558
+  construct: cp
+  species: PIKACHU
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: surfing-Pikachu sprite selection
+- site: engine/events/pokerus/pokerus.asm:139
+  construct: cp
+  species: SHUCKLE
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Shuckle turns a held Oran Berry into Berry Juice; behaviour of the species, not a check on Mania's gift
+- site: engine/events/shuckle.asm:79
+  construct: cp
+  species: SHUCKLE
+  in_offset_list: true
+  category: gifts
+  verdict: tied
+  group: ManiasHouse
+  note: ReturnShuckie recognises the gift given at shuckle.asm:9
+- site: engine/events/unown_walls.asm:4
+  construct: cp
+  species: HO_OH
+  in_offset_list: true
+  category: gifts
+  verdict: tied
+  group: TinTowerRoof
+  note: opens the wall when the first party mon is the Tin Tower Ho-Oh
+- site: engine/gfx/load_pics.asm:133
+  construct: cp
+  species: UNOWN
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Unown form handling, keyed by species
+- site: engine/gfx/load_pics.asm:264
+  construct: cp
+  species: UNOWN
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Unown form handling, keyed by species
+- site: engine/gfx/mon_icons.asm:194
+  construct: cp
+  species: MAGIKARP
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: trap: graphics bank boundary, never an identity test (item-007)
+- site: engine/gfx/mon_icons.asm:658
+  construct: cp
+  species: MAGIKARP
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: trap: graphics bank boundary, never an identity test (item-007)
+- site: engine/gfx/pic_animation.asm:464
+  construct: cp
+  species: UNOWN
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Unown form handling, keyed by species
+- site: engine/link/link.asm:789
+  construct: cp
+  species: MAGNEMITE
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Gen 1 link type translation
+- site: engine/link/link.asm:791
+  construct: cp
+  species: MAGNETON
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Gen 1 link type translation
+- site: engine/link/link.asm:2004
+  construct: cp
+  species: MEW
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: link checkbyte for event legendaries
+- site: engine/link/link.asm:2007
+  construct: cp
+  species: MEW
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: link checkbyte for event legendaries
+- site: engine/link/link.asm:2011
+  construct: cp
+  species: CELEBI
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: link checkbyte for event legendaries
+- site: engine/link/link.asm:2014
+  construct: cp
+  species: CELEBI
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: link checkbyte for event legendaries
+- site: engine/link/time_capsule.asm:41
+  construct: cp
+  species: MAGNEMITE
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Gen 1 link type translation
+- site: engine/link/time_capsule.asm:43
+  construct: cp
+  species: MAGNETON
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Gen 1 link type translation
+- site: engine/overworld/events.asm:1216
+  construct: cp
+  species: SUICUNE
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: roamers
+  note: roaming-encounter dispatch; dead for Suicune in Sour Crystal, no roaming Suicune is ever seeded
+- site: engine/overworld/events.asm:1222
+  construct: cp
+  species: RAIKOU
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: roamers
+  note: roaming-encounter dispatch; pairs with the seed and respawn sites and flee_mons
+- site: engine/overworld/events.asm:1228
+  construct: cp
+  species: ENTEI
+  in_offset_list: true
+  category: wild
+  verdict: tied
+  group: roamers
+  note: roaming-encounter dispatch; pairs with the seed and respawn sites and flee_mons
+- site: engine/overworld/wildmons.asm:375
+  construct: cp
+  species: UNOWN
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Unown form handling, keyed by species
+- site: engine/pokemon/breeding.asm:43
+  construct: cp
+  species: DITTO
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Ditto breeding/Transform rule, keyed by species
+- site: engine/pokemon/breeding.asm:46
+  construct: cp
+  species: DITTO
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Ditto breeding/Transform rule, keyed by species
+- site: engine/pokemon/breeding.asm:52
+  construct: cp
+  species: DITTO
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Ditto breeding/Transform rule, keyed by species
+- site: engine/pokemon/breeding.asm:104
+  construct: cp
+  species: DITTO
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Ditto breeding/Transform rule, keyed by species
+- site: engine/pokemon/breeding.asm:118
+  construct: cp
+  species: DITTO
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Ditto breeding/Transform rule, keyed by species
+- site: engine/pokemon/breeding.asm:275
+  construct: cp
+  species: TOGEPI
+  in_offset_list: true
+  category: gifts
+  verdict: tied
+  group: ElmsLab
+  note: sets EVENT_TOGEPI_HATCHED when the hatched mon is the egg's species
+- site: engine/pokemon/breeding.asm:587
+  construct: cp
+  species: DITTO
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Ditto breeding/Transform rule, keyed by species
+- site: engine/pokemon/breeding.asm:590
+  construct: cp
+  species: DITTO
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Ditto breeding/Transform rule, keyed by species
+- site: engine/pokemon/breeding.asm:644
+  construct: cp
+  species: DITTO
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Ditto breeding/Transform rule, keyed by species
+- site: engine/pokemon/breeding.asm:647
+  construct: cp
+  species: DITTO
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Ditto breeding/Transform rule, keyed by species
+- site: engine/pokemon/evolve.asm:305
+  construct: cp
+  species: UNOWN
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Unown form handling, keyed by species
+- site: engine/pokemon/move_mon.asm:352
+  construct: cp
+  species: UNOWN
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Unown form handling, keyed by species
+- site: engine/pokemon/move_mon.asm:461
+  construct: cp
+  species: UNOWN
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Unown form handling, keyed by species
+- site: engine/pokemon/move_mon.asm:750
+  construct: cp
+  species: UNOWN
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Unown form handling, keyed by species
+- site: engine/pokemon/stats_screen.asm:853
+  construct: cp
+  species: UNOWN
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Unown form handling, keyed by species
+- site: engine/pokemon/stats_screen.asm:868
+  construct: cp
+  species: UNOWN
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Unown form handling, keyed by species
+- site: engine/printer/print_party.asm:219
+  construct: cp
+  species: UNOWN
+  in_offset_list: false
+  category: none
+  verdict: not a pair
+  group: null
+  note: property: Unown form handling, keyed by species
+- site: maps/BillsHouse.asm:40
+  construct: ifnotequal
+  species: LICKITUNG
+  in_offset_list: true
+  category: gifts
+  verdict: limitation
+  group: BillsHouse
+  note: grandpa asks for a species the player catches in wild; crosses to every wild LICKITUNG
+- site: maps/BillsHouse.asm:54
+  construct: ifnotequal
+  species: ODDISH
+  in_offset_list: true
+  category: gifts
+  verdict: limitation
+  group: BillsHouse
+  note: grandpa asks for a species the player catches in wild; crosses to every wild ODDISH
+- site: maps/BillsHouse.asm:68
+  construct: ifnotequal
+  species: STARYU
+  in_offset_list: true
+  category: gifts
+  verdict: limitation
+  group: BillsHouse
+  note: grandpa asks for a species the player catches in wild; crosses to every wild STARYU
+- site: maps/BillsHouse.asm:84
+  construct: ifnotequal
+  species: GROWLITHE
+  in_offset_list: true
+  category: gifts
+  verdict: limitation
+  group: BillsHouse
+  note: grandpa asks for a species the player catches in wild; crosses to every wild GROWLITHE
+- site: maps/BillsHouse.asm:98
+  construct: ifnotequal
+  species: VULPIX
+  in_offset_list: true
+  category: gifts
+  verdict: limitation
+  group: BillsHouse
+  note: grandpa asks for a species the player catches in wild; crosses to every wild VULPIX
+- site: maps/BillsHouse.asm:112
+  construct: ifnotequal
+  species: PICHU
+  in_offset_list: true
+  category: gifts
+  verdict: limitation
+  group: BillsHouse
+  note: PICHU has no wild or trainer instance; hatched from Pikachu, an evolution relation no tie expresses
+- site: maps/CeladonGameCornerPrizeRoom.asm:149
+  construct: setval
+  species: EEVEE
+  in_offset_list: true
+  category: gifts
+  verdict: not a pair
+  group: CeladonGameCornerPrizeRoom
+  note: feeds GameCornerPrizeMonCheckDex beside the givepoke in the same file; same file is one group
+- site: maps/CeladonGameCornerPrizeRoom.asm:167
+  construct: setval
+  species: PORYGON
+  in_offset_list: true
+  category: gifts
+  verdict: not a pair
+  group: CeladonGameCornerPrizeRoom
+  note: feeds GameCornerPrizeMonCheckDex beside the givepoke in the same file; same file is one group
+- site: maps/CeladonGameCornerPrizeRoom.asm:185
+  construct: setval
+  species: LARVITAR
+  in_offset_list: true
+  category: gifts
+  verdict: not a pair
+  group: CeladonGameCornerPrizeRoom
+  note: feeds GameCornerPrizeMonCheckDex beside the givepoke in the same file; same file is one group
+- site: maps/ElmsLab.asm:111
+  construct: setval
+  species: TOGEPI
+  in_offset_list: true
+  category: gifts
+  verdict: tied
+  group: ElmsLab
+  note: FindPartyMonThatSpeciesYourTrainerID for the VioletPokecenter1F egg
+- site: maps/ElmsLab.asm:114
+  construct: setval
+  species: TOGETIC
+  in_offset_list: true
+  category: gifts
+  verdict: limitation
+  group: ElmsLab
+  note: names the evolution of the Togepi egg; no tie expresses evo(); SPEC.md 6.3
+- site: maps/ElmsLab.asm:123
+  construct: setval
+  species: TOGEPI
+  in_offset_list: true
+  category: gifts
+  verdict: tied
+  group: ElmsLab
+  note: FindPartyMonThatSpeciesYourTrainerID for the VioletPokecenter1F egg
+- site: maps/ElmsLab.asm:126
+  construct: setval
+  species: TOGETIC
+  in_offset_list: true
+  category: gifts
+  verdict: limitation
+  group: ElmsLab
+  note: names the evolution of the Togepi egg; no tie expresses evo(); SPEC.md 6.3
+- site: maps/GoldenrodGameCorner.asm:426
+  construct: setval
+  species: ABRA
+  in_offset_list: true
+  category: gifts
+  verdict: not a pair
+  group: GoldenrodGameCorner
+  note: feeds GameCornerPrizeMonCheckDex beside the givepoke in the same file; same file is one group
+- site: maps/GoldenrodGameCorner.asm:444
+  construct: setval
+  species: CUBONE
+  in_offset_list: true
+  category: gifts
+  verdict: not a pair
+  group: GoldenrodGameCorner
+  note: feeds GameCornerPrizeMonCheckDex beside the givepoke in the same file; same file is one group
+- site: maps/GoldenrodGameCorner.asm:462
+  construct: setval
+  species: DRATINI
+  in_offset_list: true
+  category: gifts
+  verdict: not a pair
+  group: GoldenrodGameCorner
+  note: feeds GameCornerPrizeMonCheckDex beside the givepoke in the same file; same file is one group
+- site: maps/GoldenrodGameCorner.asm:480
+  construct: setval
+  species: PORYGON
+  in_offset_list: true
+  category: gifts
+  verdict: not a pair
+  group: GoldenrodGameCorner
+  note: feeds GameCornerPrizeMonCheckDex beside the givepoke in the same file; same file is one group
+- site: maps/LakeOfRageMagikarpHouse.asm:40
+  construct: setval
+  species: MAGIKARP
+  in_offset_list: true
+  category: gifts
+  verdict: limitation
+  group: LakeOfRageMagikarpHouse
+  note: FindPartyMonThatSpecies before the rater; same species as magikarp.asm:11, crosses to wild
+- site: maps/OlivineLighthouse6F.asm:110
+  construct: setval
+  species: AMPHAROS
+  in_offset_list: true
+  category: gifts
+  verdict: not a pair
+  group: OlivineLighthouse6F
+  note: feeds PlaySlowCry, a cry of the NPC mon in the same file
+- site: maps/PokemonMansionB1F.asm:101
+  construct: setval
+  species: MEWTWO
+  in_offset_list: true
+  category: gifts
+  verdict: tied
+  group: PokemonMansionB1F
+  note: FindPartyMonThatSpecies for the Cerulean Cave Mewtwo gates the Mew battle
+- site: maps/Route39Barn.asm:52
+  construct: setval
+  species: MILTANK
+  in_offset_list: true
+  category: gifts
+  verdict: not a pair
+  group: Route39Barn
+  note: feeds PlaySlowCry, a cry of the NPC mon in the same file
