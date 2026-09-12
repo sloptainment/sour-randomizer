@@ -13,7 +13,7 @@ const species: SpeciesData = JSON.parse(readFileSync(join(DATA, 'species.json'),
 const p = pools(species);
 
 const BUILD_ROOT = process.env.SC_BUILD_ROOT ?? join(homedir(), 'var');
-const romPath = (dir: string) => join(BUILD_ROOT, dir, 'artifact/sourcrystal_debug.gbc');
+const romPath = (dir: string) => join(BUILD_ROOT, dir, 'artifact/sourcrystal.gbc');
 
 function builds(): [Uint8Array, Uint8Array] | null {
 	try {

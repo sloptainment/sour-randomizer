@@ -32,7 +32,7 @@ const BUILD_ROOT = process.env.SC_BUILD_ROOT ?? join(homedir(), 'var');
 const TREE = process.env.SC_TREE ?? join(homedir(), 'projects/sourcrystal');
 const DATA = join(import.meta.dirname, '../data');
 
-const ROM_SHA1 = 'e97b5cc1ed2abe9114da7a0f1795f2374796fc53';
+const ROM_SHA1 = '176142d42596e7070c7dfbbf743a6c79e0c15062';
 
 /** tools/stadium rewrites these on every build, so a byte differing inside them is not an
  *  offset. One that happens to satisfy new == P(old) there is coincidence. */
@@ -60,7 +60,7 @@ type Labelled = {
 	total: number;
 };
 
-const romOf = (dir: string) => readFileSync(join(BUILD_ROOT, dir, 'artifact/sourcrystal_debug.gbc'));
+const romOf = (dir: string) => readFileSync(join(BUILD_ROOT, dir, 'artifact/sourcrystal.gbc'));
 const mappingOf = <T>(dir: string): T =>
 	JSON.parse(readFileSync(join(BUILD_ROOT, dir, 'mapping.json'), 'utf-8'));
 

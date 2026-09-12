@@ -7,7 +7,7 @@ import { ROM_SIZE, calculateChecksums } from './stadium';
 // The port self-check (SPEC.md §3.3): recomputing the checksums over the *unmodified*
 // canonical ROM must reproduce it byte for byte. Validates the port against a real
 // build without patching anything.
-const CANONICAL = `${process.env.SC_BUILD_ROOT ?? `${homedir()}/var`}/sourcrystal/artifact/sourcrystal_debug.gbc`;
+const CANONICAL = `${process.env.SC_BUILD_ROOT ?? `${homedir()}/var`}/sourcrystal/artifact/sourcrystal.gbc`;
 
 test('recomputing over the canonical ROM reproduces it byte for byte', (t) => {
   let canonical: Uint8Array;
