@@ -32,7 +32,7 @@ const BUILD_ROOT = process.env.SC_BUILD_ROOT ?? join(homedir(), 'var');
 const TREE = process.env.SC_TREE ?? join(homedir(), 'projects/sourcrystal');
 const DATA = join(import.meta.dirname, '../data');
 
-const ROM_SHA1 = '176142d42596e7070c7dfbbf743a6c79e0c15062';
+const ROM_SHA1 = '94a90f633017db96c6b38005b5116a7551b85dd4';
 
 /** tools/stadium rewrites these on every build, so a byte differing inside them is not an
  *  offset. One that happens to satisfy new == P(old) there is coincidence. */
