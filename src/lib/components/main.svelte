@@ -2,6 +2,7 @@
      tab would hide two of three and hide the coupling. SPEC.md §6. -->
 <script lang="ts">
 	import { browser } from '$app/environment';
+	import { base } from '$app/paths';
 	import { Button, DarkMode, Fileupload, Heading, Helper, Input, Label, Toast } from 'flowbite-svelte';
 	import offsetsJson from '$data/offsets.json';
 	import speciesJson from '$data/species.json';
@@ -311,6 +312,6 @@
 </div>
 
 <footer class="mt-5 shrink-0 text-center text-xs text-gray-500 dark:text-gray-400">
-	<img style="margin:auto; height:100%; width: auto;" src="/badge.png">
+	<img style="margin:auto; height:100%; width: auto;" src="{base}/badge.png">
 </footer>
 </div>
